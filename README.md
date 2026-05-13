@@ -1,9 +1,9 @@
-# Package name
+# Natural retroduction.
 <pre>
-  pip install package-name
+  pip install natural-retroduction
 </pre>
 Then:
 ```Python
   # Python
-  import package_name
+  import natural_retroduction
 ```
